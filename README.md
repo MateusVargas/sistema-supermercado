@@ -7,4 +7,5 @@ como cadastro, edição, exclusão de produtos, estoque, clientes, fornecedores,
 tecnologias utilizadas: linguagem de programação Java, banco de dados PostgreSQL e JasperReports para a geração de relatórios
 
 abaixo o sistema em execução com dados fictícios:
+![](20200708_151843.gif)
 
